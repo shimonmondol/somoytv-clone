@@ -1,0 +1,206 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main_header {
+    background-color: red;
+    height: 28px;
+}
+
+.main_header nav {
+    text-align: right;
+    padding-top: 4px;
+}
+
+.main_header nav a {
+    padding-right: 6px;
+    /* text-decoration: none; */
+    color: white;
+}
+
+.logo {
+    text-align: center;
+}
+
+.icon img {
+    width: 142px;
+    padding-top: 12px;
+}
+
+.date p {
+    color: rgb(112, 122, 131);
+    padding-top: 10px;
+}
+
+.main-menu {
+    background-color: red;
+    height: 44px;
+    margin-top: 10px;
+}
+
+.main-menu nav {
+    text-align: center;
+    padding-top: 14px;
+
+}
+
+.main-menu nav a {
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    padding: 4px 2px;
+    margin-right: 45px;
+}
+
+.ads-1 {
+    text-align: center;
+}
+
+.ads-1 img {
+    width: 600px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.section-1 {
+    background-color: rgba(119, 136, 153, 0.384);
+    height: 750px;
+}
+
+.title {
+    width: 450px;
+    padding-top: 34px;
+    margin-left: 212px;
+    float: left;
+}
+
+.title h1 {
+    padding-bottom: 18px;
+}
+
+.title p {
+    margin-bottom: 22px;
+    text-align: justify;
+}
+
+.title a {
+    border: 2px solid black;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 4px 2px;
+
+}
+
+.news-imges img {
+    margin-left: 32px;
+    width: 400px;
+    height: 250px;
+    padding-top: 22px;
+}
+
+#pg {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 32px;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+
+/* .viral u {
+    color: red;
+} */
+.img-1 {
+    background-color: red;
+    width: 440px;
+    height: 400px;
+    margin-left: 212px;
+    color: white;
+    border-radius: 12px;
+    float: left;
+}
+
+.img-1 img {
+    width: 440px;
+    border: 2px solid red;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.img-1 h3 {
+    margin-left: 18px;
+    margin-top: 12px;
+
+}
+
+.img-1 p {
+    margin-top: 12px;
+    margin-left: 18px;
+}
+
+.img-2 {
+    background-color: red;
+    width: 440px;
+    height: 400px;
+    margin-right: 250px;
+    color: white;
+    border-radius: 12px;
+    float: right;
+}
+
+.img-2 img {
+    width: 440px;
+    height: 250px;
+    border: 2px solid red;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.img-2 h3 {
+    margin-left: 18px;
+    margin-top: 12px;
+
+}
+
+.img-2 p {
+    margin-top: 12px;
+    margin-left: 18px;
+}
+
+.ads-2 {
+    text-align: center;
+}
+
+.ads-2 img {
+    width: 600px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.vd-1 {
+    margin-left: 170px;
+    float: left;
+    padding-right: 10px;
+}
+
+.vd-2 {
+    float: left;
+    padding-right: 10px;
+}
+
+footer {
+    background-color: red;
+    height: 40px;
+    margin-top: 10px;
+}
+
+footer h2 {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
